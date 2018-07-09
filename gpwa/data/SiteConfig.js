@@ -24,7 +24,7 @@ module.exports = {
   userLinks: [
     {
       label: "GitLab",
-      url: "hhttps://gitlab.com/jvworldwide/gatsby-progressive-web-app",
+      url: "https://gitlab.com/jvworldwide/gatsby-progressive-web-app",
       iconClassName: "fa fa-github"
     },
     {
